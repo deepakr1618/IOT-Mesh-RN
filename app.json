@@ -1,0 +1,12 @@
+{
+  "name": "smart-mesh",
+  "displayName": "smart-mesh",
+  "expo": {
+    "name": "smart-mesh",
+    "slug": "smart-mesh",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
